@@ -8,7 +8,7 @@ For more information, check out this [link](https://youtu.be/khGdiITNHxw).
 
 ## Live Demo
 
-You can check the live demo [here](https://trio-challenge.herokuapp.com/);
+You can check the live demo [here](https://trio-challenge.herokuapp.com/).
 
 ## Build
 
