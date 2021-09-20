@@ -12,6 +12,10 @@ export const PageContainer = styled.div`
   justify-content: center;
   background: url(${bg}) no-repeat center center;
   padding-bottom: 5vw;
+  
+  @media (max-width: 992px) {
+    flex-direction: column;
+  }
 `;
 
 export const ResponsiveContainer = styled.div`
